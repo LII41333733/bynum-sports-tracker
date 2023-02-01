@@ -1,0 +1,222 @@
+[
+  {
+    "MatchNumber": 11,
+    "RoundNumber": 1,
+    "DateUtc": "2022-09-11 17:00:00Z",
+    "Location": "Ford Field",
+    "HomeTeam": "Detroit Lions",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 35,
+    "AwayTeamScore": 38
+  },
+  {
+    "MatchNumber": 17,
+    "RoundNumber": 2,
+    "DateUtc": "2022-09-20 00:30:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Minnesota Vikings",
+    "Group": null,
+    "HomeTeamScore": 24,
+    "AwayTeamScore": 7
+  },
+  {
+    "MatchNumber": 47,
+    "RoundNumber": 3,
+    "DateUtc": "2022-09-25 17:00:00Z",
+    "Location": "FedExField",
+    "HomeTeam": "Washington Commanders",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 8,
+    "AwayTeamScore": 24
+  },
+  {
+    "MatchNumber": 61,
+    "RoundNumber": 4,
+    "DateUtc": "2022-10-02 17:00:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Jacksonville Jaguars",
+    "Group": null,
+    "HomeTeamScore": 29,
+    "AwayTeamScore": 21
+  },
+  {
+    "MatchNumber": 67,
+    "RoundNumber": 5,
+    "DateUtc": "2022-10-09 20:25:00Z",
+    "Location": "State Farm Stadium",
+    "HomeTeam": "Arizona Cardinals",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 17,
+    "AwayTeamScore": 20
+  },
+  {
+    "MatchNumber": 82,
+    "RoundNumber": 6,
+    "DateUtc": "2022-10-17 00:20:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Dallas Cowboys",
+    "Group": null,
+    "HomeTeamScore": 26,
+    "AwayTeamScore": 17
+  },
+  {
+    "MatchNumber": 121,
+    "RoundNumber": 8,
+    "DateUtc": "2022-10-30 17:00:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Pittsburgh Steelers",
+    "Group": null,
+    "HomeTeamScore": 35,
+    "AwayTeamScore": 13
+  },
+  {
+    "MatchNumber": 136,
+    "RoundNumber": 9,
+    "DateUtc": "2022-11-04 00:15:00Z",
+    "Location": "NRG Stadium",
+    "HomeTeam": "Houston Texans",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 17,
+    "AwayTeamScore": 29
+  },
+  {
+    "MatchNumber": 137,
+    "RoundNumber": 10,
+    "DateUtc": "2022-11-15 01:15:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Washington Commanders",
+    "Group": null,
+    "HomeTeamScore": 21,
+    "AwayTeamScore": 32
+  },
+  {
+    "MatchNumber": 160,
+    "RoundNumber": 11,
+    "DateUtc": "2022-11-20 18:00:00Z",
+    "Location": "Lucas Oil Stadium",
+    "HomeTeam": "Indianapolis Colts",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 16,
+    "AwayTeamScore": 17
+  },
+  {
+    "MatchNumber": 166,
+    "RoundNumber": 12,
+    "DateUtc": "2022-11-28 01:20:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Green Bay Packers",
+    "Group": null,
+    "HomeTeamScore": 40,
+    "AwayTeamScore": 33
+  },
+  {
+    "MatchNumber": 194,
+    "RoundNumber": 13,
+    "DateUtc": "2022-12-04 18:00:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Tennessee Titans",
+    "Group": null,
+    "HomeTeamScore": 35,
+    "AwayTeamScore": 10
+  },
+  {
+    "MatchNumber": 205,
+    "RoundNumber": 14,
+    "DateUtc": "2022-12-11 18:00:00Z",
+    "Location": "MetLife Stadium",
+    "HomeTeam": "New York Giants",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 22,
+    "AwayTeamScore": 48
+  },
+  {
+    "MatchNumber": 220,
+    "RoundNumber": 15,
+    "DateUtc": "2022-12-18 18:00:00Z",
+    "Location": "Soldier Field",
+    "HomeTeam": "Chicago Bears",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 20,
+    "AwayTeamScore": 25
+  },
+  {
+    "MatchNumber": 230,
+    "RoundNumber": 16,
+    "DateUtc": "2022-12-24 21:25:00Z",
+    "Location": "AT&T Stadium",
+    "HomeTeam": "Dallas Cowboys",
+    "AwayTeam": "Philadelphia Eagles",
+    "Group": null,
+    "HomeTeamScore": 40,
+    "AwayTeamScore": 34
+  },
+  {
+    "MatchNumber": 253,
+    "RoundNumber": 17,
+    "DateUtc": "2023-01-01 18:00:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "New Orleans Saints",
+    "Group": null,
+    "HomeTeamScore": 10,
+    "AwayTeamScore": 20
+  },
+  {
+    "MatchNumber": 266,
+    "RoundNumber": 18,
+    "DateUtc": "2023-01-08 21:25:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "New York Giants",
+    "Group": null,
+    "HomeTeamScore": 22,
+    "AwayTeamScore": 16
+  },
+  {
+    "MatchNumber": 280,
+    "RoundNumber": 20,
+    "DateUtc": "2023-01-22 01:15:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "New York Giants",
+    "Group": null,
+    "HomeTeamScore": 38,
+    "AwayTeamScore": 7
+  },
+  {
+    "MatchNumber": 283,
+    "RoundNumber": 21,
+    "DateUtc": "2023-01-29 20:00:00Z",
+    "Location": "Lincoln Financial Field",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "San Francisco 49ers",
+    "Group": null,
+    "HomeTeamScore": 31,
+    "AwayTeamScore": 7
+  },
+  {
+    "MatchNumber": 285,
+    "RoundNumber": 22,
+    "DateUtc": "2023-02-12 23:30:00Z",
+    "Location": "State Farm Stadium",
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Kansas City Chiefs",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]
